@@ -1,0 +1,67 @@
+
+.container{
+    width: 500px;
+    padding: 10px;
+    height: 500px;
+    border: 1px solid lightgray;
+    border-radius: 14px ;
+    margin: 10px auto;
+    
+}
+
+
+.card-image{
+    width: 100%;
+    border-radius: 14px;
+}
+
+.container-header{
+    position: relative;
+}
+
+.tag{
+     position: absolute;
+     bottom: 0;
+     background-color: rgb(207, 75, 207);
+     color: white;
+     padding: 5px 10px;
+     margin: 8px;
+     font-size: 14px;
+     width: 120px;
+     font-weight: bold;
+}
+
+.tag2{
+    position: absolute;
+     bottom: 0;
+     right: 0;
+     background-color: white;
+     color: black;
+     padding: 5px 10px;
+     margin: 8px;
+     font-size: 17px;
+     width: 50px;
+     border-radius: 10px;
+     
+     font-weight: bold;
+}
+
+.p{
+    color: lightslategray;
+    font-weight: lighter;
+    color: grey;
+
+}
+
+.maxlifelogo{
+    position: fixed;
+    width: 100px;
+    margin-top: 1px;
+}
+
+.p2{
+    margin-left: 120px;
+    margin-top: 30px;
+    font-size: larger;
+    color: grey;
+}
